@@ -6,7 +6,6 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=miruamelizabethelrathvonalwood-oss&label=profile+views&color=blue&style=flat)](https://github.com/miruamelizabethelrathvonalwood-oss)
 [![Followers](https://img.shields.io/github/followers/miruamelizabethelrathvonalwood-oss?style=for-the-badge&label=Followers)](https://github.com/miruamelizabethelrathvonalwood-oss?tab=followers)
-[![Public repos](https://img.shields.io/github/repos/miruamelizabethelrathvonalwood-oss?style=for-the-badge&label=Repos)](https://github.com/miruamelizabethelrathvonalwood-oss?tab=repositories)
 [![Last update](https://img.shields.io/github/last-commit/miruamelizabethelrathvonalwood-oss/miruamelizabethelrathvonalwood-oss?label=Last%20update&style=for-the-badge)](https://github.com/miruamelizabethelrathvonalwood-oss/miruamelizabethelrathvonalwood-oss/commits/main)
 [![Open issues](https://img.shields.io/github/issues/miruamelizabethelrathvonalwood-oss/miruamelizabethelrathvonalwood-oss?label=Open%20issues&style=for-the-badge)](https://github.com/miruamelizabethelrathvonalwood-oss/miruamelizabethelrathvonalwood-oss/issues)
 
