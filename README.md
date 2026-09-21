@@ -4,10 +4,11 @@
 
 **Eksperimen algoritma AI yang berubah, terukur, dan bisa diulang.**
 
-[![Focus](https://img.shields.io/badge/focus-AI%20Algorithms-blue?style=for-the-badge)](https://github.com/miruamelizabethelrathvonalwood-oss)
-[![Mode](https://img.shields.io/badge/mode-experimental-orange?style=for-the-badge)](https://github.com/miruamelizabethelrathvonalwood-oss)
-[![Principle](https://img.shields.io/badge/principle-reproducible-green?style=for-the-badge)](https://github.com/miruamelizabethelrathvonalwood-oss)
 [![Profile views](https://komarev.com/ghpvc/?username=miruamelizabethelrathvonalwood-oss&label=profile+views&color=blue&style=flat)](https://github.com/miruamelizabethelrathvonalwood-oss)
+[![Followers](https://img.shields.io/github/followers/miruamelizabethelrathvonalwood-oss?style=for-the-badge&label=Followers)](https://github.com/miruamelizabethelrathvonalwood-oss?tab=followers)
+[![Public repos](https://img.shields.io/github/repos/miruamelizabethelrathvonalwood-oss?style=for-the-badge&label=Repos)](https://github.com/miruamelizabethelrathvonalwood-oss?tab=repositories)
+[![Last update](https://img.shields.io/github/last-commit/miruamelizabethelrathvonalwood-oss/miruamelizabethelrathvonalwood-oss?label=Last%20update&style=for-the-badge)](https://github.com/miruamelizabethelrathvonalwood-oss/miruamelizabethelrathvonalwood-oss/commits/main)
+[![Open issues](https://img.shields.io/github/issues/miruamelizabethelrathvonalwood-oss/miruamelizabethelrathvonalwood-oss?label=Open%20issues&style=for-the-badge)](https://github.com/miruamelizabethelrathvonalwood-oss/miruamelizabethelrathvonalwood-oss/issues)
 
 </div>
 
@@ -25,13 +26,18 @@ Gaya kerja: teknis, terbuka untuk eksperimen, dan lebih percaya hasil daripada k
 4. **Catat (document)** — tulis hasil, kegagalan, dan keputusan penting.
 5. **Ulangi (repeat)** — perbaiki eksperimen atau jadikan hasil sebagai baseline baru.
 
+## Kontrol perubahan
+
+| Lapisan | Boleh berubah | Harus tetap |
+|---|---|---|
+| Pertanyaan | fokus dan skenario | terukur |
+| Metrik | baseline, latency, accuracy, cost | tercatat dan dibandingkan |
+| Metode | prompt, data, model, tool | dapat diulang |
+| Keputusan | lanjut, ubah, hentikan | berdasarkan bukti |
+
 ## Status dinamis
 
 <table>
-  <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=miruamelizabethelrathvonalwood-oss&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub stats" /></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miruamelizabethelrathvonalwood-oss&layout=compact&theme=transparent&hide_border=true&card_width=400" alt="Top languages" /></td>
-  </tr>
   <tr>
     <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=miruamelizabethelrathvonalwood-oss&theme=transparent&hide_border=true" alt="Contribution streak" /></td>
     <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miruamelizabethelrathvonalwood-oss&theme=transparent" alt="Profile summary" /></td>
